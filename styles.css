@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    background-color: #4CAF50;
+    padding: 1rem;
+    color: white;
+}
+
+#task-panel {
+    margin: 1rem;
+}
+
+#excel-simulator {
+    border: 1px solid #ddd;
+    width: 80%;
+    height: 400px;
+}
